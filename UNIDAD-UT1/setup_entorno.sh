@@ -1,6 +1,8 @@
+#!/bin/bash
+# setup_entorno.sh
+# Prepara el entorno de la prueba de evaluación inicial de Bash (2CFSG).
+# Ejecutar en CADA máquina antes de empezar la prueba (como el usuario del alumno).
 # Uso: bash setup_entorno.sh
-
-
 
 set -e
 
