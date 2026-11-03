@@ -1,3 +1,4 @@
+#!/bin/bash
 #Ejercicio 4. Nombre de usuario válido
 while true; do
   read -p "Nombre de usuario: " login

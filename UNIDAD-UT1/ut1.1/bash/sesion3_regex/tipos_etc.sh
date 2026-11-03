@@ -1,3 +1,4 @@
+#!/bin/bash
 #Ejercicio 2. Tipos de fichero en /etc
 conf=0
 bak=0

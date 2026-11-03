@@ -1,3 +1,4 @@
+#!/bin/bash
 #Ejercicio 5. Configuración sin comentarios
 
 fichero=${1:-/etc/login.defs}

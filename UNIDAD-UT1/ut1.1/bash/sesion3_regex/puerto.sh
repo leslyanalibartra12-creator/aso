@@ -1,3 +1,4 @@
+#!/bin/bash
 #Ejercicio 1. ¿Es un número de puerto?
 
 if [[ $# -eq 0 ]]; then

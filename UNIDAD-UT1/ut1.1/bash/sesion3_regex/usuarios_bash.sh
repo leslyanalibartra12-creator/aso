@@ -1,3 +1,4 @@
+#!/bin/bash
 #Ejercicio 3. Usuarios con shell bash
 total=0
 
