@@ -1,6 +1,5 @@
-#Ejercicio3: Cuentas de correo del centro
-
 #!/bin/bash
+#Ejercicio3: Cuentas de correo del centro
 
 if [[ $# -eq 0 ]]; then
   echo "Uso: $0 <correo>"

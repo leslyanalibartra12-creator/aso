@@ -1,5 +1,6 @@
-#Ejercicio 4: Política de contraseñas
 #!/bin/bash
+#Ejercicio 4: Política de contraseñas
+
 if [[ $# -eq 0 ]]; then
   echo "Uso: $0 '<contraseña>'"
   exit 1

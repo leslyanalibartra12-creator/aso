@@ -1,5 +1,5 @@
-#Ejercicio 5: Tipo de dirección IP
 #!/bin/bash
+#Ejercicio 5: Tipo de dirección IP
 
 if [[ $# -eq 0 ]]; then
   echo "Uso: $0 <ip>"
